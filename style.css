@@ -1,0 +1,18 @@
+body{
+    background-color: aliceblue;
+    color: rgb(22, 104, 105);
+}
+h3{
+    text-align: center;
+}
+.titulo-1{
+color: aqua;
+text-align: left;
+background-color: blue;
+margin: 20px;
+padding: 20px;
+}
+.titulo-2 {
+    color: cyan;
+text-align:center;
+}
